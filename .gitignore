@@ -37,7 +37,8 @@ doc/api/
 **/ios/Flutter/app.zip
 **/ios/Flutter/flutter_assets/
 /ios//.pbxuser
-/ios//.perspectivev3
+/ios/
+/.perspectivev3
 /ios
 sync/
 **/ios/Flutter/App.framework
